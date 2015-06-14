@@ -1,0 +1,35 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"ApplySyntax",
+		"Auto Semi-Colon",
+		"AutoFileName",
+		"BracketHighlighter",
+		"CursorRuler",
+		"DocBlockr",
+		"Git",
+		"Markdown Preview",
+		"Neon Color Scheme",
+		"Package Control",
+		"Phpcs",
+		"Sass",
+		"SassBeautify",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-contrib-jslint",
+		"SublimeLinter-phpcs",
+		"SublimeLinter-pylint",
+		"SublimeLinter-pyyaml",
+		"SublimeREPL",
+		"Syntax Highlighting for Sass",
+		"Terminal",
+		"Theme - Soda SolarizedDark",
+		"Tomorrow Color Schemes",
+		"TrailingSpaces"
+	]
+}
